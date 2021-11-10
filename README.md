@@ -2,3 +2,4 @@
 [70_NayanTode_ISLAB_PrologProgrammingAssignment.pdf](https://github.com/NAYANTODE/70_ISLAB_submission-/files/7449483/70_NayanTode_ISLAB_PrologProgrammingAssignment.pdf)
 [70_NayanTode_ISLAB_Tutorial 2.pdf](https://github.com/NAYANTODE/70_ISLAB_submission-/files/7449484/70_NayanTode_ISLAB_Tutorial.2.pdf)
 [70_NayanTode_ISLAB_Tutorial1 (1).pdf](https://github.com/NAYANTODE/70_ISLAB_submission-/files/7449530/70_NayanTode_ISLAB_Tutorial1.1.pdf)
+[70_NayanTode_ISLAB_Assignment1A.pdf](https://github.com/NAYANTODE/70_ISLAB_submission-/files/7514989/70_NayanTode_ISLAB_Assignment1A.pdf)
